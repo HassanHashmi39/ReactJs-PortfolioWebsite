@@ -3,6 +3,9 @@
 A modern, responsive, and dark/light mode portfolio website built with React.js and Tailwind CSS.  
 It showcases my skills, projects, services, and allows clients to book meetings or services online.
 
+
+![Screenshot_13-8-2025_04321_localhost - Copy](https://github.com/user-attachments/assets/900cd574-b290-4e25-851f-c51192c961d7)
+
  🚀 Features
 
 - Fully responsive design for all screen sizes.
